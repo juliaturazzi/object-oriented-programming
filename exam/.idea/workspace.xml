@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="80a2198d-d1e4-46fe-ae6d-1364d0c432d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Album.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AlbumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Colecionavel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Figurinha.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pacotinho.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PacotinhoInvalidoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Selo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/Dado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/DadosDeGamao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/DadosTriplos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/JogoDeDoisJogadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/JogoMalucoComSorteadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab10/src/Sorteador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/src/DadoComum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/src/DadoGenerico.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/src/DadosDeGamao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/src/DadosTriplos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/src/JogoDeDoisJogadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/src/JogoMalucoComSorteadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/src/Principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/src/Sorteador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/src/SorteadorViaDoisParesConsecutivos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab11/src/SorteadorViaTrio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9/src/Dado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9/src/DadosDeGamao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9/src/DadosTriplos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9/src/JogoDeDoisJogadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9/src/JogoMalucoComSorteadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab9/src/Sorteador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/ContaCorrente.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/ContaCorrenteTeste.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab2/Correntista.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab3/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab4/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/CaracterMaisFrequente.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/src/CaracterMaisFrequente.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/SomaDoPar.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/src/SomaDoPar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab6/src/TesteRapido.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab6/src/TesteRapido.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/src/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/src/Jogador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/src/JogoOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/src/JogoOnline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab7/src/JogoOnlineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab7/src/JogoOnlineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/src/ComparadorDeJogadoresLexicografico.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/src/ComparadorDeJogadoresLexicografico.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/src/ComparadorDeJogadoresPorPontuacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/src/ComparadorDeJogadoresPorPontuacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/src/Jogador.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/src/Jogador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/src/JogoOnline.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/src/JogoOnline.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/src/JogoOnlineTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/src/JogoOnlineTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/src/Partida.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/src/Partida.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab8/src/Principal.java" beforeDir="false" afterPath="$PROJECT_DIR$/../lab8/src/Principal.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2DgdyqzWlFsDNhhCGBraxdhHXxa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="80a2198d-d1e4-46fe-ae6d-1364d0c432d2" name="Default Changelist" comment="" />
+      <created>1661124923594</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661124923594</updated>
+    </task>
+    <servers />
+  </component>
+</project>
