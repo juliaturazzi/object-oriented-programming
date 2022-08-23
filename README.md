@@ -1,2 +1,2 @@
 # Object-oriented programming
-Object-oriented programming assignments and exams in java (UFRJ - second semester).
+Object-oriented programming assignments and exam in java (UFRJ - second semester).
